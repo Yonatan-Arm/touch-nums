@@ -1,0 +1,25 @@
+
+body{
+    background-color: #a9bd7e;
+    margin-left: 550px;
+    float: center;
+   
+}
+table{
+    background-color: #9dd2ea;
+    width: 295px;
+    height: 325px;
+    text-align: center;
+    border-radius: 4px;
+} 
+.btn-reset {
+    background-color: aqua;
+    font-size: 2em;
+}
+ .table, tr,td {
+    border: 1px solid black;
+}
+.timer {
+    float:center;
+
+}
